@@ -89,10 +89,5 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth'
 }
 
-plugins {
-    id 'com.android.application'
-    id 'kotlin-android'
-    id 'com.google.gms.google-services' // If using Firebase
-    id 'dev.flutter.flutter-gradle-plugin' // ✅ Add this line
-}
+
 
