@@ -92,5 +92,4 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth'
 }
 
-
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
